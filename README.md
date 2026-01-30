@@ -73,3 +73,8 @@ Additional filters such as dietary preference, difficulty level, cooking time, a
 ## How to Run Locally
 npm install
 npm start
+
+
+## Live Application:
+https://smart-recipe-generator-green.vercel.app/
+
